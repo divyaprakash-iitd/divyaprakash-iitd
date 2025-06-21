@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <strong>Artwork Title:</strong> <em>Cilia Particle Interaction</em><br/>
+  <strong><a href="Eccomas_competition_winner_certificate.jpeg">Artwork Title:</a></strong>
+  <em> Cilia Particle Interaction</em><br/>
   <em>
-    "Cilia Particle Interaction: Particles flowing over arrays of cilia in fluid.<br/>
-    The colors represent the isocontours of fluid velocity".
+    "<a href="Eccomas_competition_winner_certificate.jpeg">Cilia Particle Interaction: Particles flowing over arrays of cilia in fluid.<br/>
+    The colors represent the isocontours of fluid velocity</a>".
   </em>
 </p>
-
 
 <p align="center">
   <img src="https://github.com/divyaprakash-iitd.png" width="120" style="border-radius: 50%;" alt="Divyaprakash's profile photo"/>
