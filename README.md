@@ -1,6 +1,6 @@
 <!-- Banner image: recommend uploading the rotated version as e.g. "banner-landscape.jpg" in your repo -->
 <p align="center">
-  <img src="banner-landscape.jpg" width="100%" alt="CFD-inspired banner"/>
+  <img src="DP_ECCOMAS_Pic.png" width="100%" alt="Cilia-Particle Interaction"/>
 </p>
 <p align="center">
   <em>Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)</em>
