@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)</em>
+  <em>[Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)](Eccomas_competition_winner_certificate.jpeg)</em>
 </p>
 
 <p align="center">
