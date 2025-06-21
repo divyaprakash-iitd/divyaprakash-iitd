@@ -29,8 +29,8 @@
 
 ---
 
-> "Fluid dynamics is the art of describing the motion of the invisible."  
-> <sub>— Inspired by Ludwig Prandtl</sub>
+> "As soon as we started programming, we found to our surprise that it wasn't as easy to get programs right as we had thought. Debugging had to be discovered. I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs." 
+> <sub> --Maurice Wilkes discovers debugging, 1949</sub>
 
 ---
 
@@ -75,5 +75,5 @@ I am a computational researcher specializing in scientific computing, computatio
 ---
 
 <p align="center">
-  <em>“Science is a way of thinking much more than it is a body of knowledge.”</em>
+  <em>“Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful --George P. E. Box”</em>
 </p>
