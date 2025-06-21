@@ -56,7 +56,7 @@ I am a computational researcher specializing in scientific computing, computatio
 
 - **Languages:** Python, Fortran, C/C++, MATLAB
 - **Tools:** OpenFOAM, ANSYS, StarCCM+, FDS, SU2, Git
-- **Expertise:** CFD, DNS/LES, immersed boundary methods, ML for physical systems
+- **Expertise:** CFD, Fluid-Structure Interactions, Immersed Boundary Methods, ML for physical systems
 
 ---
 
