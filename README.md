@@ -48,7 +48,7 @@ I am a computational researcher specializing in scientific computing, computatio
 
 - [**flexfem**](https://github.com/divyaprakash-iitd/flexfem): A flexible, extensible finite element solver for fluid-structure interactions.
 - [**ellipseLBM**](https://github.com/divyaprakash-iitd/ellipseLBM): Lattice Boltzmann Method simulations for ellipsoidal particles in flow.
-- ...and more! See my pinned repos and [project portfolio](https://dpcfd.com/projects).
+- ...and more! See my pinned repos and [portfolio](https://dpcfd.com/portfolio).
 
 ---
 
