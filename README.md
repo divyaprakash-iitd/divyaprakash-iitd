@@ -1,7 +1,8 @@
 <!-- Banner image: recommend uploading the rotated version as e.g. "banner-landscape.jpg" in your repo -->
 <p align="center">
-  <img src="DP_ECCOMAS_Pic.png" width="50%" alt="Cilia-Particle Interaction"/>
+  <img src="DP_ECCOMAS_Pic.png" width="50%" style="transform: rotate(270deg);" alt="Cilia-Particle Interaction"/>
 </p>
+
 <p align="center">
   <em>Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)</em>
 </p>
