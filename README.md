@@ -4,7 +4,11 @@
 </p>
 
 <p align="center">
-  <em><a href="Eccomas_competition_winner_certificate.jpeg">Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)</a></em>
+  <strong>Artwork Title:</strong> <em>Cilia Particle Interaction</em><br/>
+  <em>
+    "Cilia Particle Interaction: Particles flowing over arrays of cilia in fluid.<br/>
+    The colors represent the isocontours of fluid velocity".
+  </em>
 </p>
 
 
