@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <em>[Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)](Eccomas_competition_winner_certificate.jpeg)</em>
+  <em><a href="Eccomas_competition_winner_certificate.jpeg">Artwork: Winner, Arts & Science Competition, ECCOMAS Congress 2024 (Lisbon)</a></em>
 </p>
+
 
 <p align="center">
   <img src="https://github.com/divyaprakash-iitd.png" width="120" style="border-radius: 50%;" alt="Divyaprakash's profile photo"/>
