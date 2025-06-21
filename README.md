@@ -1,11 +1,10 @@
 <!-- Banner image: recommend uploading the rotated version as e.g. "banner-landscape.jpg" in your repo -->
 <p align="center">
-  <img src="DP_ECCOMAS_Pic.png" width="50%" style="transform: rotate(270deg);" alt="Cilia-Particle Interaction"/>
+  <img src="DP_ECCOMAS_Pic.png" width="100%" style="transform: rotate(270deg);" alt="Cilia-Particle Interaction"/>
 </p>
 
 <p align="center">
-  <strong><a href="Eccomas_competition_winner_certificate.jpeg">Artwork Title:</a></strong>
-  <em> Cilia Particle Interaction</em><br/>
+  <strong>Artwork Title:</strong> <em>Cilia Particle Interaction</em><br/>
   <em>
     "<a href="Eccomas_competition_winner_certificate.jpeg">Cilia Particle Interaction: Particles flowing over arrays of cilia in fluid.<br/>
     The colors represent the isocontours of fluid velocity</a>".
